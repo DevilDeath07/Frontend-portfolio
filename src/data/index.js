@@ -300,6 +300,19 @@ export const skills = [
 ];
 
 export const projects = [
+    {
+    "title": "MERN Stack portfolio",
+    "description": "This portfolio is built using React.js for a fast, responsive, and component-driven UI. I use HTML5, CSS3, and modern JavaScript (ES6+) for layout and interactivity. The project is deployed on Vercel for reliable performance and fast global delivery.
+If applicable, backend services like form handling are implemented using Node.js, Express.js, and MongoDB under the MERN stack.
+Additionally, the site includes an AI chatbot integrated using Flowise to enhance user interaction.\r\n",
+    "technologies": "Node.js, Express.js, MongoDB, JavaScript, REST API, Reactjs",
+    "link": "https://github.com/DevilDeath07/Frontend-portfolio",
+    "liveLink": "https://balamuruganportfolio.vercel.app/",
+    "fileUrl": "/uploads/1766506842387-Screenshot 2025-12-23 214825.png",
+    "_id": "695a30bcfba2d118b0c49fec",
+    "createdAt": "2026-01-04T09:19:56.313Z",
+    "__v": 0
+  },
   {
     "title": "Fire-API",
     "description": "A lightweight REST API using Node.js, Express, and MongoDB\r\nto perform basic CRUD operations and serve as a backend for web applications.\r\n",
