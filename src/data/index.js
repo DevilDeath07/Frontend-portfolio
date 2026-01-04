@@ -300,7 +300,7 @@ export const skills = [
 ];
 
 export const projects = [
-{
+  {
     "title": "Fire-API",
     "description": "A lightweight REST API using Node.js, Express, and MongoDB\r\nto perform basic CRUD operations and serve as a backend for web applications.\r\n",
     "technologies": "Node.js, Express.js, MongoDB, JavaScript, REST API",
